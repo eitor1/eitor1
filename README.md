@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Eitor
 
-<!--
-**eitor1/eitor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Sistemas de Informação (UFRA - Paragominas) 🎓   
+- Desenvolvedor em formação 💻  
+- Construindo projetos e evoluindo na programação 🚀  
 
-Here are some ideas to get you started:
+----------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias em aprendizado
+- Python 🐍
+- JavaScript ⚡
+- Git e GitHub 🔧
+
+----------
+
+## 📈 Objetivos
+- Conseguir minha primeira oportunidade na área
+- Desenvolver projetos práticos
+- Evoluir minhas habilidades como programador
+
+----------
+
+## 📫 Contato
+- Instagram: https://instagram.com/eitorsilva
+- www.linkedin.com/in/eitor-rosa-a2228435b
+- Email: contadoeitor15@gmail.com
+
+----------
+
+## 🚀 Projetos
+👉 Em breve novos projetos aqui!
