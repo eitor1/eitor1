@@ -20,7 +20,7 @@
 
 ----------
 
-## 📫 Contato
+## 📫 Contatos
 - Instagram: https://instagram.com/eitorsilva
 - www.linkedin.com/in/eitor-rosa-a2228435b
 - Email: contadoeitor15@gmail.com
